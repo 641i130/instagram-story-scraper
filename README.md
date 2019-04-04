@@ -11,3 +11,7 @@
     </a>
   </p>
 </p>
+
+<p>
+  Made to save stories for offline usage such as back ups or archiving usages.
+</p>
