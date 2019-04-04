@@ -1,6 +1,5 @@
 <h1 align="center">Instagram Story Scraper</h1>
-A non-api Instagram story scraper that uses your user login information to download stories from a given set of users..
-
+<p align="center">A non-api Instagram story scraper that uses your user login information to download stories from a given set of users.</p>
 <p align="center">
   <p align="center">A tool that <b>scrapes</b> Instagram stories implemented in Python 3 using the Selenium module.<p>
   <p align="center">
