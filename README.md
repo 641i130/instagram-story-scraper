@@ -1,4 +1,4 @@
-<iframe src='https://svgshare.com/f/CE1' width=100% height=100% ></iframe>
+<img align="center" width="30%" src="https://svgshare.com/i/CE1.svg"></img>
 <h1 align="center">Instagram Story Scraper</h1>
 <p align="center">An <b>OPENSOURCE</b> non-api Instagram story scraper that uses your user login information to download stories from a given set of users.</p>
 <p align="center">
