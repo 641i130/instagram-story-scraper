@@ -1,4 +1,4 @@
-# instagram-story-scraper
+<h1 align="center">Instagram Story Scraper</h1>
 A non-api Instagram story scraper that uses your user login information to download stories from a given set of users..
 
 <p align="center">
