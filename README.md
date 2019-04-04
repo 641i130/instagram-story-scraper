@@ -1,3 +1,4 @@
+<img align="center" width="40%" src="https://raw.githubusercontent.com/641i130/instagram-story-scraper/master/story_scraper.svg"/>
 <h1 align="center">Instagram Story Scraper</h1>
 <p align="center">An <b>OPENSOURCE</b> non-api Instagram story scraper that uses your user login information to download stories from a given set of users.</p>
 <p align="center">
