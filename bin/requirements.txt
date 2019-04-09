@@ -1,0 +1,12 @@
+selenium
+bs4
+selenium
+time
+wget
+urllib.request
+sys
+os
+subprocess
+requests
+shutil
+pathlib

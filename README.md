@@ -41,12 +41,19 @@ On Windows you might have to use `python` without the version (`3`) suffix.
 
     - `scrape_stories.py`
     - or `python3 -m scrape_stories.py`
-## **Examples**
+
+## **Examples** 🍽️
 ### For one account
-  - `scrape_stories.py 0 "pewdiepie"`
+  - `scrape_stories.py username password 0 "pewdiepie"`
 ### For multiple accounts
-  - `scrape_stories.py 1 ("pewdiepie", "jacksepticeye", "jaiden_animations")`
+  - `scrape_stories.py username password 1 ("pewdiepie", "jacksepticeye", "jaiden_animations")")`
 
 ## Video Tutorials 🎥
 List of how-to videos
-* Coming soon
+* Coming soon (If someone requests it)
+
+## To-Do List
+  - Make it schedulable (ex: daily downloader)
+  - Find a way to use only requests similar to [instabot.py](https://github.com/instabot-py/instabot.py)
+  - Make it more reliable and consistent
+  - Add post functionality
