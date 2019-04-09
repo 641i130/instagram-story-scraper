@@ -37,10 +37,15 @@ On Windows you might have to use `python` without the version (`3`) suffix.
 
   - `python3 -m pip install -r requirements.txt`
 
-- **Start the bot** 🏁
+- **Start** 🏁
 
     - `scrape_stories.py`
     - or `python3 -m scrape_stories.py`
+- **Examples**
+### For one account
+  - scrape_stories.py 0 "pewdiepie"
+### For multiple accounts
+  - scrape_stories.py 1 ("pewdiepie", "jacksepticeye", "jaiden_animations")
 
 ## Video Tutorials
 List of how-to videos
