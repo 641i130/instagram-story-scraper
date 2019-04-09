@@ -41,7 +41,7 @@ On Windows you might have to use `python` without the version (`3`) suffix.
 
     - `scrape_stories.py`
     - or `python3 -m scrape_stories.py`
-- **Examples**
+## **Examples**
 ### For one account
   - `scrape_stories.py 0 "pewdiepie"`
 ### For multiple accounts
